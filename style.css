@@ -1,0 +1,27 @@
+.addclass{
+    align-content: center; 
+    align-items: center;
+    padding: 100px; 
+    width: 200vh; 
+    height: 70vh;  
+    background-image: url(download.jpg); 
+    background-size: cover;
+}
+
+.addclass table tr td{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.addclass table tr td input{
+    font-size: 24px;
+}
+.addclass #btn{
+    color: #fff;
+    background-color: black;
+    border: none;
+    font-size: 24px;
+    padding: 5px 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+
+}
